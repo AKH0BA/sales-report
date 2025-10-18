@@ -8,7 +8,7 @@ This project connects **Python**, **PostgreSQL**, and **Excel** to generate auto
 - Exports results to Excel and saves visual charts (`matplotlib`).
 - Organized folder structure for professional reporting.
 
-## 🗂 Folder structure
+## Folder structure
 sales-report/
 |- sql/  SQL scripts to create tables and insert data
 |- python/  Python scripts for analysis and reporting
