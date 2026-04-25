@@ -20,10 +20,4 @@ sales-report/
 - Excel
 - VS code , PG Admin
 
-## How to run
-1. Open `sql/01.creating_table.sql` and `sql/02.inserting_data.sql` in **pgAdmin**, then execute them.
-2. Update your database password in `python/report.py`.
-3. Run the Python file:
-   ```bash
-   python python/report.py
-4. results will appear in output
+
